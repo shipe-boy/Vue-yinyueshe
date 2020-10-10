@@ -1,6 +1,6 @@
 # yinyue
 
-> A Vue.js project
+> 使用vue脚手架，做的微信公众号页面。音乐社公众号：乐海书情
 
 ## Build Setup
 
